@@ -1,1 +1,1 @@
-# CursoCisco1
+Resumen del curso de Python en análisis de datos 1.
